@@ -1,0 +1,16 @@
+{
+  "author": "Baptiste Defrance <146373@supinfo.com>",
+  "name": "Tchat2",
+  "description": "A Tchat",
+  "engines": {
+    "node": "*"
+  },
+  "dependencies": {
+    "express": ">= 3.0.0rc2",
+    "socket.io": ">= 0.8.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "app.js"
+  }
+}
